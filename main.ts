@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const line =
-  "One star: he bought me for 'good energy', then parked me behind the Wi-Fi router for feng shui and now blames my brown leaf tips on my attitude.";
+  "One star: he bought me for 'good energy', then parked me behind the Wi-Fi router for feng shui, and now my brown leaf tips are apparently my attitude problem.";
 
 // The bounty gate requires /output/entry.txt to be 1 to 279 characters;
 // refuse to emit an over-long one.

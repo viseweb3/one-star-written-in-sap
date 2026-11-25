@@ -8,7 +8,7 @@ https://make.fun/bounty/u-steady-puffin-78-1922-one-star-written-in-sap-2ea1f4f4
 A single one-line 1-star review, written in the voice of a houseplant
 reviewing its human owner (under 280 characters, gate: 1–279):
 
-> One star: he bought me for 'good energy', then parked me behind the Wi-Fi router for feng shui and now blames my brown leaf tips on my attitude.
+> One star: he bought me for 'good energy', then parked me behind the Wi-Fi router for feng shui, and now my brown leaf tips are apparently my attitude problem.
 
 Why this line: it is a genuine review — a clear complaint (bought for
 "good energy", then parked behind the router) and a reason for the single
